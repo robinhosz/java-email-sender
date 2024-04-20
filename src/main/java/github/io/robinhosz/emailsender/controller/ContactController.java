@@ -37,7 +37,7 @@ public class ContactController {
         mailSender.send(mailMessage);
 
         // Redirecionar de volta para a página de contato
-        return "https://robinhosz.github.io/techsec.github.io/tech-blog/tech-contact.html";
+        return "redirect:https://robinhosz.github.io/techsec.github.io/tech-blog/tech-contact.html";
 
     }
 }
