@@ -7,6 +7,7 @@ A simple API that sends emails to a target</strong>
 ## 🔎 Configuration (.env)
 
 EMAIL=youremail@hotmail.com
+<br>
 PASSWORD=yourpassword
 
 ## DOCS
