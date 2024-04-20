@@ -10,7 +10,12 @@ EMAIL=youremail@hotmail.com
 <br>
 PASSWORD=yourpassword
 
-## DOCS
+## 🐋 Dockerfile ENV
+
+ENV EMAIL=youremail@hotmail.com
+ENV PASSWORD=yourpassword
+
+## 🗎 DOCS
 - [Java Email Sender](https://www.baeldung.com/java-email)
  
 ## 🔧 Technologies
